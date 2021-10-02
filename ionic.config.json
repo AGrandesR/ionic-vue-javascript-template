@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-javascript-template",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
